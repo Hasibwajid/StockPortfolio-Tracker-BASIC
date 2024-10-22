@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/b8cf7c9a-95a1-42ca-b9ea-ae38f20e2602)
 
+
 Stock Portfolio Tracker
 A web-based Stock Portfolio Tracker that allows users to manage their stock investments. Key features include:
 
