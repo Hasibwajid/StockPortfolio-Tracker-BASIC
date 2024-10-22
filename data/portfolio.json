@@ -1,0 +1,14 @@
+{
+    "aapl": {
+        "quantity": "20123233232",
+        "purchase_price": "500"
+    },
+    "dsdsd": {
+        "quantity": 1.0,
+        "purchase_price": 21.0
+    },
+    "AAPL": {
+        "quantity": "15",
+        "purchase_price": "100"
+    }
+}

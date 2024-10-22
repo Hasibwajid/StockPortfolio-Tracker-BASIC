@@ -1,0 +1,30 @@
+{
+    "APPL": {
+        "quantity": "3333",
+        "purchase_price": "200"
+    },
+    "Apple Inc": {
+        "quantity": "33",
+        "purchase_price": "2000"
+    },
+    "AAPL": {
+        "quantity": "336",
+        "purchase_price": "222"
+    },
+    "AMD": {
+        "quantity": "6",
+        "purchase_price": "0"
+    },
+    "AAL": {
+        "quantity": "6",
+        "purchase_price": "800"
+    },
+    "ABBV": {
+        "quantity": "66666667777777777777777777777777777777777777777777777",
+        "purchase_price": "800"
+    },
+    "ADI": {
+        "quantity": "777777111111111",
+        "purchase_price": "100"
+    }
+}
